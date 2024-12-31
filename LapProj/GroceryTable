@@ -1,0 +1,18 @@
+CREATE TABLE Product(
+	proId int PRIMARY KEY,
+	proName VARCHAR(255),
+	price int,
+	quantity int,
+	category VARCHAR(255)
+);
+
+select * from Product;
+
+CREATE TABLE User(
+	userId int PRIMARY KEY,
+	userName VARCHAR(255),
+	email VARCHAR(255),
+	password VARCHAR(255)
+);
+
+select * from User;
