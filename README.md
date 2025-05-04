@@ -14,3 +14,7 @@ This web-based platform is designed to streamline the process of managing and or
 
       This system is designed to enhance the user experience in managing and ordering groceries, offering a simple and intuitive interface for both admins and users..
 
+## Software Requirement
+- Apache Tomcat 9
+- Eclipse-jee-2022
+- sqlite-jdbc-3.46.1.3(jar file)
